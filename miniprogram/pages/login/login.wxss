@@ -1,1 +1,12 @@
-/* miniprogram/pages/login/login.wxss */
+.img_login {
+  width: 25rem !important;
+}
+.img_login{
+  justify-content: center;
+  padding-top: 60px;
+}
+.login_btn{
+  padding-top: 25px;
+  justify-content: center;
+  align-items: center;
+}
